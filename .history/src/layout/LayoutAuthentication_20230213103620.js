@@ -26,7 +26,7 @@ const LayoutAuthentication = ({ heading, question, children }) => {
       <div className="mb-10 flex justify-between items-center">
         <Link to="/" className="inline-block">
           <img
-            src="logo.png"
+            src="/logo.png"
             alt=""
             className="w-[130px] h-auto object-cover"
           />

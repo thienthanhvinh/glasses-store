@@ -8,11 +8,11 @@ const Intro = () => {
                 <p className='text-tertiary text-xl leading-[30px] font-bold'>Original products</p>
             </div>
             <div className='flex flex-col items-center'>
-                <img srcSet="Icon2.png 2x" alt="" className='w-[80px] h-[80px] object-cover' />
+                <img srcSet="/Icon2.png 2x" alt="" className='w-[80px] h-[80px] object-cover' />
                 <p className='text-tertiary text-xl leading-[30px] font-bold'>Original products</p>
             </div>
             <div className='flex flex-col items-center'>
-                <img srcSet="Icon3.png 2x" alt="" className='w-[80px] h-[80px] object-cover' />
+                <img srcSet="/Icon3.png 2x" alt="" className='w-[80px] h-[80px] object-cover' />
                 <p className='text-tertiary text-xl leading-[30px] font-bold'>Original products</p>
             </div>
         </div>

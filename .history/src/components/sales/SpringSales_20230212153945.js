@@ -10,7 +10,7 @@ const SpringSales = () => {
                 <Button className='text-white bg-primary rounded-lg px-8 py-2 text-lg'>See offer</Button>
             </div>
             <div className='h-[700px]'>
-                <img src="photo1.png" alt="" className='w-full h-auto object-cover' />
+                <img src="/photo1.png" alt="" className='w-full h-auto object-cover' />
             </div>
         </div>
     );
