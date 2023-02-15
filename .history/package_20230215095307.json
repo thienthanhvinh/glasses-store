@@ -29,8 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy" : "",
   },
   "eslintConfig": {
     "extends": [
@@ -53,5 +52,5 @@
   "devDependencies": {
     "tailwindcss": "^3.2.6"
   },
-  "homepage" : "http://thienthanhvinh.github.io/"
+  "homepage" : "http://thienthanhvinh.github.io/glasses-store"
 }
